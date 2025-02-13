@@ -1,0 +1,1 @@
+BitstromWera Nerd Font Mono
