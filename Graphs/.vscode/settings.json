@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "list": "cpp"
     }
 }
